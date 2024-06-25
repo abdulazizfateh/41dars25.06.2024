@@ -637,11 +637,11 @@ video {
 .hidden {
   display: none;
 }
-.h-\[600px\] {
-  height: 600px;
+.h-\[500px\] {
+  height: 500px;
 }
-.w-\[600px\] {
-  width: 600px;
+.w-\[4460px\] {
+  width: 4460px;
 }
 .w-\[this-is\\\\\] {
   width: this-is\\;
@@ -651,6 +651,9 @@ video {
 }
 .w-\[weird-and-invalid\] {
   width: weird-and-invalid;
+}
+.w-\[500px\] {
+  width: 500px;
 }
 .flex-shrink {
   flex-shrink: 1;
